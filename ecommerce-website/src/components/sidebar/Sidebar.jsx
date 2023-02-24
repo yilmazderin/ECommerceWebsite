@@ -9,6 +9,7 @@ const Sidebar = () => {
                     <li className="nav__item">
                         <a href="#home" className="nav__link">
                             <i className="icon-home"></i>
+                            <i className="shopping-cart"></i>
                         </a>
                     </li>
                 </ul>
